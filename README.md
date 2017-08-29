@@ -17,7 +17,7 @@ slot, or want to run a breakout, please email the [chairs](mailto:t2trg-chairs@i
 ## Saturday September 23: Morning
 
 |  Time | Presenter(s) | Topic                                          |
-|-------+--------------+------------------------------------------------|
+|-------|--------------|------------------------------------------------|
 |  9:00 | Chairs       | Welcome & Short Introduction. T2TRG/IETF work. |
 |  9:15 | Chairs       | Status of RG documents                         |
 |  9:30 | (all)        | Breakouts on completing current RG documents   |
@@ -27,7 +27,7 @@ slot, or want to run a breakout, please email the [chairs](mailto:t2trg-chairs@i
 ## Saturday September 23: Afternoon
 
 |  Time | Presenter(s) | Topic                                                       |
-|-------+--------------+-------------------------------------------------------------|
+|-------|--------------|-------------------------------------------------------------|
 | 13:00 | Chairs       | Welcome again, RG status                                    |
 | 13:30 | (TBD)        | **Scheduled talks** outside the subjects in bold face below |
 | 15:30 | (all, TBD)   | **Work on Semantics, Hypermedia** (WISHI follow-on)         |
@@ -40,7 +40,7 @@ Evening: Dinner
 ## Sunday September 24
 
 |  Time | Presenter(s) | Topic                                                                                             |
-|-------+--------------+---------------------------------------------------------------------------------------------------|
+|-------|--------------|---------------------------------------------------------------------------------------------------|
 |  9:00 | Chairs       | Welcome again                                                                                     |
 |  9:15 | (all, TBD)   | **Coexistence**: What do we need to make many IoT networks coexist in physical and digital space? |
 | 12:00 |              | lunch                                                                                             |
