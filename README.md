@@ -1,6 +1,7 @@
 # 2017-09-berlin: T2TRG Berlin meeting
 
-When: September 23/24, 2017 (weekend before [RIOT Summit](http://summit.riot-os.org/) and [ACM ICN](http://conferences.sigcomm.org/acm-icn/2017/), please register for both events separately)
+When: September 23/24, 2017 (weekend before [RIOT Summit](http://summit.riot-os.org/)
+and [ACM ICN](http://conferences.sigcomm.org/acm-icn/2017/), (*))
 
 Where: FU Berlin, Takustr. 9, Berlin
 
@@ -8,6 +9,8 @@ Registration: [https://goo.gl/forms/Xu7ZGq7igzyDOf8U2](https://goo.gl/forms/Xu7Z
 
 Please have a look at: [https://github.com/t2trg/2017-09-berlin](https://github.com/t2trg/2017-09-berlin)
 
+(*) please register for the colocated events separately if you want to
+go there as well)
 
 # Agenda
 
