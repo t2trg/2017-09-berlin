@@ -1,6 +1,6 @@
 # 2017-09-berlin: T2TRG Berlin meeting
 
-When: September 23/24, 2017 (weekend before RIOT Summit/ACM ICN)
+When: September 23/24, 2017 (weekend before [RIOT Summit](http://summit.riot-os.org/) and [ACM ICN](http://conferences.sigcomm.org/acm-icn/2017/), please register for both events separately)
 
 Where: FU Berlin, Takustr. 9, Berlin
 
