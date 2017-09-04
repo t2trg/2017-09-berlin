@@ -46,6 +46,7 @@ Evening: Dinner
 |-------|--------------|---------------------------------------------------------------------------------------------------|
 |  9:00 | Chairs       | Welcome again                                                                                     |
 |  9:15 | (all, TBD)   | **Coexistence**: What do we need to make many IoT networks coexist in physical and digital space? |
+|       |Pekka Nikander| SOFIE: Securely and Openly Federating IoT systems                                                 |
 | 12:00 |              | lunch                                                                                             |
 | 13:00 | (all, TBD)   | **RIOT OS and IETF protocols**; **breakouts**                                                     |
 | 18:00 |              | Closing                                                                                           |
