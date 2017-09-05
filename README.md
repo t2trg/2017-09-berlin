@@ -3,7 +3,7 @@
 When: September 23/24, 2017 (weekend before [RIOT Summit](http://summit.riot-os.org/)
 and [ACM ICN](http://conferences.sigcomm.org/acm-icn/2017/), (*))
 
-Where: FU Berlin, Takustr. 9, Berlin
+Where: FU Berlin, Takustr. 9, Berlin; room 006 (see below).
 
 Registration: [https://goo.gl/forms/Xu7ZGq7igzyDOf8U2](https://goo.gl/forms/Xu7ZGq7igzyDOf8U2)
 
@@ -11,6 +11,23 @@ Please have a look at: [https://github.com/t2trg/2017-09-berlin](https://github.
 
 (*) please register for the colocated events separately if you want to
 go there as well)
+
+# Venue
+
+Venue address:
+
+        Freie Universität Berlin
+        Computer Science
+        Takustr. 9
+        14195 Berlin, Germany
+
+The computer science building no. 9 is not directly visible from
+access roads: [![offline CS campus map][map]][map] (click map to
+enlarge). Walk on one of the footpaths (faintly dotted on the map,
+e.g. from where the "14" is).  T2TRG is located in building 9, room
+006 (ground floor).
+
+[map]: http://www.mi.fu-berlin.de/fb/contact/bild_mathinf-lageplan-300dpi/mathinf-lageplan-300dpi.jpg
 
 # Agenda
 
