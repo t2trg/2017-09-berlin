@@ -46,24 +46,29 @@ slot, or want to run a breakout, please email the [chairs](mailto:t2trg-chairs@i
 
 ## Saturday September 23: Afternoon
 
-|  Time | Presenter(s) | Topic                                                       |
-|-------|--------------|-------------------------------------------------------------|
-| 13:00 | Chairs       | Welcome again, RG status                                    |
-| 13:30 | (TBD)        | **Scheduled talks** outside the subjects in bold face below |
-| 15:30 | (all, TBD)   | **Work on Semantics, Hypermedia** (WISHI follow-on)         |
-| 18:00 |              | Closing                                                     |
+|  Time | Presenter(s) | Topic                                                                                 |
+|-------|--------------|---------------------------------------------------------------------------------------|
+| 13:00 | Chairs       | Welcome again, RG status                                                              |
+| 13:30 | (TBD)        | **Scheduled talks** outside the subjects in bold face below                           |
+| 13:30 | Klaus Hartke | CoRAL: [Self-Describing Interactions for Evolvable Internet of Things Systems][coral] |
+| 15:30 | (all, TBD)   | **Work on Semantics, Hypermedia** (WISHI follow-on)                                   |
+| 18:00 |              | Closing                                                                               |
 
+[coral]: https://tools.ietf.org/html/draft-hartke-t2trg-coral-03
 
 Evening: Dinner
 
 
 ## Sunday September 24
 
-|  Time | Presenter(s) | Topic                                                                                             |
-|-------|--------------|---------------------------------------------------------------------------------------------------|
-|  9:00 | Chairs       | Welcome again                                                                                     |
-|  9:15 | (all, TBD)   | **Coexistence**: What do we need to make many IoT networks coexist in physical and digital space? |
-|       |Pekka Nikander| SOFIE: Securely and Openly Federating IoT systems                                                 |
-| 12:00 |              | lunch                                                                                             |
-| 13:00 | (all, TBD)   | **RIOT OS and IETF protocols**; **breakouts**                                                     |
-| 18:00 |              | Closing                                                                                           |
+|  Time | Presenter(s)    | Topic                                                                                              |
+|-------|-----------------|----------------------------------------------------------------------------------------------------|
+|  9:00 | Chairs          | Welcome again                                                                                      |
+|  9:15 | (all, TBD)      | **Coexistence**: What do we need to make many IoT networks coexist in physical and digital space?  |
+|       | Pekka Nikander  | SOFIE: Securely and Openly Federating IoT systems                                                  |
+|       | Carsten Bormann | SWORN: [Secure Wakeup-on-Radio Nudging][sworn] — DoS hardening for battery-operated Internet nodes |
+| 12:00 |                 | lunch                                                                                              |
+| 13:00 | (all, TBD)      | **RIOT OS and IETF protocols**; **breakouts**                                                      |
+| 18:00 |                 | Closing                                                                                            |
+
+[sworn]: https://tools.ietf.org/html/draft-bormann-t2trg-sworn-00.txt
