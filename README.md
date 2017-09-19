@@ -61,14 +61,16 @@ Evening: Dinner
 
 ## Sunday September 24
 
-|  Time | Presenter(s)    | Topic                                                                                              |
-|-------|-----------------|----------------------------------------------------------------------------------------------------|
-|  9:00 | Chairs          | Welcome again                                                                                      |
-|  9:15 | (all, TBD)      | **Coexistence**: What do we need to make many IoT networks coexist in physical and digital space?  |
-|       | Pekka Nikander  | SOFIE: Securely and Openly Federating IoT systems                                                  |
-|       | Carsten Bormann | SWORN: [Secure Wakeup-on-Radio Nudging][sworn] — DoS hardening for battery-operated Internet nodes |
-| 12:00 |                 | lunch                                                                                              |
-| 13:00 | (all, TBD)      | **RIOT OS and IETF protocols**; **breakouts**                                                      |
-| 18:00 |                 | Closing                                                                                            |
+|  Time | Presenter(s)       | Topic                                                                                              |
+|-------|--------------------|----------------------------------------------------------------------------------------------------|
+|  9:00 | Chairs             | Welcome again                                                                                      |
+|  9:15 | (all, TBD)         | **Coexistence**: What do we need to make many IoT networks coexist in physical and digital space?  |
+|       | Laura Marie Feeney | Network Coexistence                                                                                |
+|       | Pekka Nikander     | SOFIE: Securely and Openly Federating IoT systems                                                  |
+|       | Christer Holmberg  | Thin ICE — connectivity establishment and maintenance                                              |
+|       | Carsten Bormann    | SWORN: [Secure Wakeup-on-Radio Nudging][sworn] — DoS hardening for battery-operated Internet nodes |
+| 12:00 |                    | lunch                                                                                              |
+| 13:00 | (all, TBD)         | **RIOT OS and IETF protocols**; **breakouts**                                                      |
+| 18:00 |                    | Closing                                                                                            |
 
 [sworn]: https://tools.ietf.org/html/draft-bormann-t2trg-sworn-00.txt
