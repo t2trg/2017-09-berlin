@@ -65,10 +65,10 @@ Evening: Dinner
 |-------|--------------------|----------------------------------------------------------------------------------------------------|
 |  9:00 | Chairs             | Welcome again                                                                                      |
 |  9:15 | (all, TBD)         | **Coexistence**: What do we need to make many IoT networks coexist in physical and digital space?  |
-|       | Laura Marie Feeney | Network Coexistence                                                                                |
-|       | Pekka Nikander     | SOFIE: Securely and Openly Federating IoT systems                                                  |
-|       | Christer Holmberg  | Thin ICE — connectivity establishment and maintenance                                              |
-|       | Carsten Bormann    | SWORN: [Secure Wakeup-on-Radio Nudging][sworn] — DoS hardening for battery-operated Internet nodes |
+|  9:20 | Laura Marie Feeney | A role for higher layer protocols in mitigating wireless interference                              |
+| 10:00 | Pekka Nikander     | SOFIE: Securely and Openly Federating IoT systems                                                  |
+| 10:40 | Christer Holmberg  | Thin ICE — connectivity establishment and maintenance                                              |
+| 11:20 | Carsten Bormann    | SWORN: [Secure Wakeup-on-Radio Nudging][sworn] — DoS hardening for battery-operated Internet nodes |
 | 12:00 |                    | lunch                                                                                              |
 | 13:00 | (all, TBD)         | **RIOT OS and IETF protocols**; **breakouts**                                                      |
 | 18:00 |                    | Closing                                                                                            |
