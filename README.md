@@ -5,6 +5,8 @@ and [ACM ICN](http://conferences.sigcomm.org/acm-icn/2017/), (*))
 
 Where: FU Berlin, Takustr. 9, Berlin; room 006 (see below).
 
+Remote participation: [https://jitsi.tools.ietf.org/t2trg-berlin](https://jitsi.tools.ietf.org/t2trg-berlin) (Best-effort)
+
 Registration: [https://goo.gl/forms/Xu7ZGq7igzyDOf8U2](https://goo.gl/forms/Xu7ZGq7igzyDOf8U2)
 
 Please have a look at: [https://github.com/t2trg/2017-09-berlin](https://github.com/t2trg/2017-09-berlin)
@@ -54,10 +56,13 @@ slot, or want to run a breakout, please email the [chairs](mailto:t2trg-chairs@i
 | 14:00 | Dirk Kutscher | Distributed Infrastructure: DINRG and T2TRG — towards cloudless IoT?                  |
 | 14:40 | Klaus Hartke  | CoRAL: [Self-Describing Interactions for Evolvable Internet of Things Systems][coral] |
 | 15:20 | (break)       |                                                                                       |
-| 15:40 | (all, TBD)    | **Work on Semantics, Hypermedia** (WISHI follow-on)                                   |
+| 15:40 | (all, TBD)    | **Work on Semantics, Hypermedia** ([WISHI][] follow-on)                                 |
 | 18:00 |               | Closing                                                                               |
 
 [coral]: https://tools.ietf.org/html/draft-hartke-t2trg-coral-03
+[WISHI]: http://wishi.space/
+"Work on IoT Semantic/Hypermedia Interoperability | wishi"
+
 
 Evening: Dinner
 
@@ -73,13 +78,14 @@ Evening: Dinner
 | 10:40 | Christer Holmberg  | Thin ICE — connectivity establishment and maintenance                                                       |
 | 11:20 | Carsten Bormann    | SWORN: [Secure Wakeup-on-Radio Nudging][sworn] — DoS hardening for battery-operated Internet nodes          |
 | 12:00 |                    | lunch                                                                                                       |
-| 13:00 | (all, TBD)         | **RIOT OS and IETF protocols**; **breakouts**                                                               |
+| 13:00 | (all, TBD)         | **RIOT OS and IETF protocols**                                                                              |
 | 13:05 | Martine Lenders    | Compliance vs. interoperability: How compliant do we need to be to IEEE 802.15.4?                           |
 | 13:45 | Martine Lenders    | RFC 6775 (6LoWPAN-ND): Lessons in Implementation Complexity.  How much of that complexity is really needed? |
 | 14:25 | Olaf Bergmann      | Constrained CoAP APIs                                                                                       |
 | 15:05 | (break)            |                                                                                                             |
 | 15:20 | Carsten Bormann    | Slipmux: One UART to bind them all                                                                          |
-| 16:00 | (all)              | Discussion time                                                                                             |
+| 16:00 | Benjamin Smith     | (asymmetric crypto for constrained nodes)                                                                   |
+| 16:40 | (all)              | Discussion time (possibly breakouts)                                                                        |
 | 17:45 | (all)              | Wrapup                                                                                                      |
 | 18:00 |                    | Closing                                                                                                     |
 
