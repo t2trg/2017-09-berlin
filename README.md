@@ -40,19 +40,22 @@ slot, or want to run a breakout, please email the [chairs](mailto:t2trg-chairs@i
 |-------|--------------|------------------------------------------------|
 |  9:00 | Chairs       | Welcome & Short Introduction. T2TRG/IETF work. |
 |  9:15 | Chairs       | Status of RG documents                         |
-|  9:30 | (all)        | Breakouts on completing current RG documents   |
+|  9:30 | Klaus Hartke | Updates for RESTful IoT                        |
+|       | (all)        | Breakouts on completing current RG documents   |
 | 12:00 |              | lunch                                          |
 
 
 ## Saturday September 23: Afternoon
 
-|  Time | Presenter(s) | Topic                                                                                 |
-|-------|--------------|---------------------------------------------------------------------------------------|
-| 13:00 | Chairs       | Welcome again, RG status                                                              |
-| 13:30 | (TBD)        | **Scheduled talks** outside the subjects in bold face below                           |
-| 13:30 | Klaus Hartke | CoRAL: [Self-Describing Interactions for Evolvable Internet of Things Systems][coral] |
-| 15:30 | (all, TBD)   | **Work on Semantics, Hypermedia** (WISHI follow-on)                                   |
-| 18:00 |              | Closing                                                                               |
+|  Time | Presenter(s)  | Topic                                                                                 |
+|-------|---------------|---------------------------------------------------------------------------------------|
+| 13:30 | Chairs        | Welcome again, RG status                                                              |
+| 14:00 | (TBD)         | **Scheduled talks** outside the subjects in bold face below                           |
+| 14:00 | Dirk Kutscher | Distributed Infrastructure: DINRG and T2TRG — towards cloudless IoT?                  |
+| 14:40 | Klaus Hartke  | CoRAL: [Self-Describing Interactions for Evolvable Internet of Things Systems][coral] |
+| 15:20 | (break)       |                                                                                       |
+| 15:40 | (all, TBD)    | **Work on Semantics, Hypermedia** (WISHI follow-on)                                   |
+| 18:00 |               | Closing                                                                               |
 
 [coral]: https://tools.ietf.org/html/draft-hartke-t2trg-coral-03
 
@@ -61,16 +64,23 @@ Evening: Dinner
 
 ## Sunday September 24
 
-|  Time | Presenter(s)       | Topic                                                                                              |
-|-------|--------------------|----------------------------------------------------------------------------------------------------|
-|  9:00 | Chairs             | Welcome again                                                                                      |
-|  9:15 | (all, TBD)         | **Coexistence**: What do we need to make many IoT networks coexist in physical and digital space?  |
-|  9:20 | Laura Marie Feeney | A role for higher layer protocols in mitigating wireless interference                              |
-| 10:00 | Pekka Nikander     | SOFIE: Securely and Openly Federating IoT systems                                                  |
-| 10:40 | Christer Holmberg  | Thin ICE — connectivity establishment and maintenance                                              |
-| 11:20 | Carsten Bormann    | SWORN: [Secure Wakeup-on-Radio Nudging][sworn] — DoS hardening for battery-operated Internet nodes |
-| 12:00 |                    | lunch                                                                                              |
-| 13:00 | (all, TBD)         | **RIOT OS and IETF protocols**; **breakouts**                                                      |
-| 18:00 |                    | Closing                                                                                            |
+|  Time | Presenter(s)       | Topic                                                                                                       |
+|-------|--------------------|-------------------------------------------------------------------------------------------------------------|
+|  9:00 | Chairs             | Welcome again                                                                                               |
+|  9:15 | (all, TBD)         | **Coexistence**: What do we need to make many IoT networks coexist in physical and digital space?           |
+|  9:20 | Laura Marie Feeney | A role for higher layer protocols in mitigating wireless interference                                       |
+| 10:00 | Pekka Nikander     | SOFIE: Securely and Openly Federating IoT systems                                                           |
+| 10:40 | Christer Holmberg  | Thin ICE — connectivity establishment and maintenance                                                       |
+| 11:20 | Carsten Bormann    | SWORN: [Secure Wakeup-on-Radio Nudging][sworn] — DoS hardening for battery-operated Internet nodes          |
+| 12:00 |                    | lunch                                                                                                       |
+| 13:00 | (all, TBD)         | **RIOT OS and IETF protocols**; **breakouts**                                                               |
+| 13:05 | Martine Lenders    | Compliance vs. interoperability: How compliant do we need to be to IEEE 802.15.4?                           |
+| 13:45 | Martine Lenders    | RFC 6775 (6LoWPAN-ND): Lessons in Implementation Complexity.  How much of that complexity is really needed? |
+| 14:25 | Olaf Bergmann      | Constrained CoAP APIs                                                                                       |
+| 15:05 | (break)            |                                                                                                             |
+| 15:20 | Carsten Bormann    | Slipmux: One UART to bind them all                                                                          |
+| 16:00 | (all)              | Discussion time                                                                                             |
+| 17:45 | (all)              | Wrapup                                                                                                      |
+| 18:00 |                    | Closing                                                                                                     |
 
 [sworn]: https://tools.ietf.org/html/draft-bormann-t2trg-sworn-00.txt
