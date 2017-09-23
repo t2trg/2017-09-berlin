@@ -7,6 +7,8 @@ Where: FU Berlin, Takustr. 9, Berlin; room 006 (see below).
 
 Remote participation: [https://jitsi.tools.ietf.org/t2trg-berlin](https://jitsi.tools.ietf.org/t2trg-berlin) (Best-effort)
 
+Real-time notes: <https://etherpad.tools.ietf.org/p/notes-2017-berlin-t2trg>
+
 Registration: [https://goo.gl/forms/Xu7ZGq7igzyDOf8U2](https://goo.gl/forms/Xu7ZGq7igzyDOf8U2)
 
 Please have a look at: [https://github.com/t2trg/2017-09-berlin](https://github.com/t2trg/2017-09-berlin)
