@@ -72,13 +72,13 @@ Evening: Dinner
 ## Sunday September 24
 
 |  Time | Presenter(s)       | Topic                                                                                                       |
-|-------|--------------------|-------------------------------------------------------------------------------------------------------------|
+|-------+--------------------+-------------------------------------------------------------------------------------------------------------|
 |  9:00 | Chairs             | Welcome again                                                                                               |
 |  9:15 | (all, TBD)         | **Coexistence**: What do we need to make many IoT networks coexist in physical and digital space?           |
-|  9:20 | Laura Marie Feeney | A role for higher layer protocols in mitigating wireless interference                                       |
-| 10:00 | Pekka Nikander     | SOFIE: Securely and Openly Federating IoT systems                                                           |
-| 10:40 | Christer Holmberg  | Thin ICE — connectivity establishment and maintenance                                                       |
-| 11:20 | Carsten Bormann    | SWORN: [Secure Wakeup-on-Radio Nudging][sworn] — DoS hardening for battery-operated Internet nodes          |
+|  9:40 | Laura Marie Feeney | A role for higher layer protocols in mitigating wireless interference                                       |
+| 10:40 | Pekka Nikander     | SOFIE: Securely and Openly Federating IoT systems                                                           |
+| 11:20 | Christer Holmberg  | IoT NAT Traversal maintenance                                                                               |
+| 12:00 | Carsten Bormann    | SWORN: [Secure Wakeup-on-Radio Nudging][sworn] — DoS hardening for battery-operated Internet nodes          |
 | 12:00 |                    | lunch                                                                                                       |
 | 13:00 | (all, TBD)         | **RIOT OS and IETF protocols**                                                                              |
 | 13:05 | Martine Lenders    | Compliance vs. interoperability: How compliant do we need to be to IEEE 802.15.4?                           |
