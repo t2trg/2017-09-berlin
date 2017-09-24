@@ -72,7 +72,7 @@ Evening: Dinner
 ## Sunday September 24
 
 |  Time | Presenter(s)       | Topic                                                                                                       |
-|-------+--------------------+-------------------------------------------------------------------------------------------------------------|
+|-------|--------------------|-------------------------------------------------------------------------------------------------------------|
 |  9:00 | Chairs             | Welcome again                                                                                               |
 |  9:15 | (all, TBD)         | **Coexistence**: What do we need to make many IoT networks coexist in physical and digital space?           |
 |  9:40 | Laura Marie Feeney | A role for higher layer protocols in mitigating wireless interference                                       |
